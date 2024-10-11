@@ -37,7 +37,9 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 Listening to Spotify", "🎮 Playing VALORANT"];
+const statusMessages = ["Made by SunExplosion1000
+                        Join https://discord.com/invite/2Hf6q9j2MY", "Playing Minecraft
+Join https://discord.com/invite/2Hf6q9j2MY"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
